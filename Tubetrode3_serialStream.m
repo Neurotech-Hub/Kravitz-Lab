@@ -1,3 +1,5 @@
+%% !! This is old code. It will need to be updated based on latest firmware.
+
 % Define the serial port and baud rate
 % serialportlist
 % Clear any existing serial port connections

@@ -15,7 +15,7 @@ data0 = data(data.TrodeId == 0, :);
 data1 = data(data.TrodeId == 1, :);
 
 % Create a figure with 3 subplots
-figure;
+figure('position',[0 0 1400 900]);
 
 % Top plot: vBAT from TrodeId=0
 subplot(3, 1, 1);
